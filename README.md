@@ -1,12 +1,12 @@
 ![thank you](https://i.imgur.com/UKRrZMi.gif)
 
 
-## about me
+## About me
 - 普段の様子を知りたければこちらへ => twitter: [@vsanna2](https://twitter.com/vsanna2)
 - 興味関心を知りたければこちらへ => issus: [@vsanna](https://issus.me/vsanna)
 - たまに外向けに書いた記事はこちら => qiita: [@vsanna](https://qiita.com/vsanna)
 
-## skills
+## Skills
 普段はwebサービスのアプリケーション / フロントエンドを書いています。
 プライベートでもwebサービスを開発したりします。
 
@@ -62,7 +62,7 @@ RN -> Flutter に移行してしまいました...
 - ボードゲームでつよくなる
 
 
-## careers
+## Careers
 
 ### 2017/06 - current AnyPay株式会社
 - Software Engineer
@@ -82,5 +82,5 @@ RN -> Flutter に移行してしまいました...
 - 商品のプログラム内容検討や、講師の採用・研修など主に商品設計を担当。
 
 
-## product
+## Product / Portfolio
 TBD wantedlyからうつす
