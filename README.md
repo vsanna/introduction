@@ -18,9 +18,7 @@
 
 
 ### 趣味で書いているもの
-- Flutter / Dart / Golang / ReactNative
-
-RN -> Flutter に移行してしまいました...
+- Flutter / Dart / Golang
 
 ### その他
 - 開発環境
@@ -41,18 +39,29 @@ RN -> Flutter に移行してしまいました...
     - MySQL
     - postgres
     - sqlite
-
+- 設計
+    - MVC
+    - (フロントエンドの文脈での)MV*系(MV, MVP, MVC, MVVM)
+    - Flux(Redux, Vuex)
+    - Clean Architecture
 
 ## What I want to do
 
-ユーザーが体験に没入するほど、対象とする課題が面白く、解決策がハマっていて、かつ技術やデザインに目が止まらないくらいにそれらが体験に溶け込んでいるようなプロダクトを開発することです。
+### work
+
+- プロダクト
+    - 没入感があるほど洗練されたデザインを伴い、
+    - プロダクトの意義が明確で、それにより生活習慣の変化が起きるほどに価値がわかりやすく、
+    - 短期ではなく中長期のトレンドに乗ったプロダクト
+- チーム
+    - 常に小さなチーム(max5~7人)にあり、意思決定に関わり続けること
 
 ### programming
-- サーバーサイド / フロントともに設計力を向上させる
-- インフラが得意でないが、食わず嫌いせず、Docker, GCPをある程度扱えるようにする
-- API周りの設計に詳しくなる
-    - サーバー間APIでのgRPC
-    - フロントからGraphQLでサーバーにリクエスト
+- 設計力のたゆまぬ向上
+- OS, ネットワーク, DBなど、低レイヤーの知識から、フロントエンド・各種設計論・ツールなど変化する情報まで(好きな領域だけに逃げずに)理解を試みる
+    - インフラが得意でないが、食わず嫌いせず、Docker, GCPをある程度扱えるようにする
+- over the HTTPの通信をしばらく詳しくやる
+    - GraphQL, xRPC
 
 基本的にはフロントエンド >= アプリケーション > インフラの順で好きです。
 
@@ -73,7 +82,7 @@ TBD wantedlyからうつす
 
 ### 2017/06 - current AnyPay株式会社
 - Software Engineer
-    - 主にRuby, JavaScript(TypeScript), AWS, GCP, Heroku
+    - 主にRuby, JavaScript(TypeScript), Go, AWS, GCP, Heroku
 - 主にサーバーサイドを対象として仕事しています。
 - 2018年から採用広報を一部担当したり、チーム運営の雑用部分をやったりもしています。
 
