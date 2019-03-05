@@ -12,13 +12,14 @@
 インフラは得意ではなく、今コンテナベースの環境構築をゼロからできるように学習中です。
 
 ### 仕事で書いているもの
-- Ruby / Ruby on Rails / RSpec
+- Ruby / Ruby on Rails / RSpec / golang
 - JavaScript(TypeScript) / Vue.js / node.js / mocha / karma / sinon
 - HTML5 / Haml / CSS / SCSS
 
 
 ### 趣味で書いているもの
-- Flutter / Dart / Golang
+- Flutter / Dart
+- C++
 
 ### その他
 - 開発環境
@@ -27,9 +28,9 @@
         - linux
     - 実行環境
         - localhost(Rails, jsは基本的にローカルで動かしています)
-        - Docker, docker-compose, kubernetes
-            - 自前で構築できるように2018/8現在、いろいろ調べています
-        - Vagrant, chef ... 1年以上使っていません
+        - Docker, docker-compose
+        - kubernetes
+        - Vagrant, chef ... 1年以上使っていません.
     - CI
         - circleci
 - 言語/フレームワーク
