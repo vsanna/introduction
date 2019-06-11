@@ -1,103 +1,106 @@
 ![thank you](https://i.imgur.com/UKRrZMi.gif)
 
 
-## About me
-- 普段の様子を知りたければこちらへ => twitter: [@vsanna2](https://twitter.com/vsanna2)
-- 興味関心を知りたければこちらへ => issus: [@vsanna](https://issus.me/vsanna)
-- たまに外向けに書いた記事はこちら => qiita: [@vsanna](https://qiita.com/vsanna)
+## ABOUT ME
+プロダクトの意思決定に近いところで技術的な課題を解決することを好んで仕事をしていますし、これからもそうするつもりでいます。
 
-## Skills
-普段はwebサービスのアプリケーション / フロントエンドを書いています。
-プライベートでもwebサービスを開発したりします。
-インフラは得意ではなく、今コンテナベースの環境構築をゼロからできるように学習中です。
 
-### 仕事で書いているもの
-- Ruby / Ruby on Rails / RSpec / golang
-- JavaScript(TypeScript) / Vue.js / node.js / mocha / karma / sinon
-- HTML5 / Haml / CSS / SCSS
+### SNS
+- Twitter: [@vsanna2](https://twitter.com/vsanna2)
+- Issus: [@vsanna](https://issus.me/vsanna)
+- Qiita: [@vsanna](https://qiita.com/vsanna)
 
+### 大切にしている考え方
+- HRT
+- 中長期のトレンドで必要とされるものを作る
+- Developable / Scalable / Good Performance / Secure
+
+### Skills
+Backendに軸足を置きつつクライアントも書きます。
+DevOpsは基本(モニタリング/リリース/インシデント対応/自動化)を一通り行います。
+インフラは専任の方にはおよびませんがシステムアーキテクチャの議論をすることは好きです。
+
+
+- Client(Web):
+    - HTML5 / Haml
+    - CSS / SCSS
+    - JavaScript(TypeScript) / Vue.js / mocha / chai / karma / sinon
+    - PWA
+- Backend for Frontend:
+    - Ruby / Ruby on Rails / RSpec
+- Backend:
+    - Ruby / Rails / RSpec
+    - golang / echo, gorilla / ginkgo / gomega
+    - Java / Spring(Boot) / JUnit / Mochito
+- Infrastracture:
+    - GCP
+        - GKE, GAE, CloudDatastore/Firestore, CloudSQL, BigQuery, GCS, PubSub, StackDriver, GCR, CloudBuild, などなど
+        - Professional Cloud Architect取得(2018/12)
+    - AWS
+        - EKS, Fargate, OpsWorks, RDS, ElastiCache, S3, Route53, CloudFront, などなど
+    - Heroku
+- Other
+    - Docker, docker-compose
+    - Kubernetes
+    - MySQL, PostgreSQL
 
 ### 趣味で書いているもの
+- iOS / Swift
 - Flutter / Dart
 - C++
 
-### その他
-- 開発環境
-    - OS
-        - macOS(unix)
-        - linux
-    - 実行環境
-        - localhost(Rails, jsは基本的にローカルで動かしています)
-        - Docker, docker-compose
-        - kubernetes
-        - Vagrant, chef ... 1年以上使っていません.
-    - CI
-        - circleci
-- 言語/フレームワーク
-    - [1年以上] PHP, cakePHP, Laravel
-    - [1年程度] Python, ipython
-- DB
-    - MySQL
-    - postgres
-    - sqlite
-- 設計
-    - MVC
-    - (フロントエンドの文脈での)MV*系(MV, MVP, MVC, MVVM)
-    - Flux(Redux, Vuex)
-    - Clean Architecture
 
-## What I want to do
+## Portfolio
+TBD: 説明を追加するかもしれない
+
+- as work:
+    1. paymo / paymo biz
+    2. liiga
+    3. 外資就活ドットコム
+- private:
+    1. Issus: https://issus.me
+    2. 平成アーカイブス: http://heisei-archives.com
+    3. 自作アナリティクスツール
+
+
+## What I want to do/be
 
 ### work
-
-- プロダクト
-    - 没入感があるほど洗練されたデザインを伴い、
-    - プロダクトの意義が明確で、それにより生活習慣の変化が起きるほどに価値がわかりやすく、
-    - 短期ではなく中長期のトレンドに乗ったプロダクト
-- チーム
-    - 常に小さなチーム(max5~7人)にあり、意思決定に関わり続けること
+- 技術力の圧倒的な向上
+- チーム組成・運営
+- プロダクトオーナーとして世に問いかける
 
 ### programming
-- 設計力のたゆまぬ向上
-- OS, ネットワーク, DBなど、低レイヤーの知識から、フロントエンド・各種設計論・ツールなど変化する情報まで(好きな領域だけに逃げずに)理解を試みる
-    - インフラが得意でないが、食わず嫌いせず、Docker, GCPをある程度扱えるようにする
-- over the HTTPの通信をしばらく詳しくやる
-    - GraphQL, xRPC
-
-基本的にはフロントエンド >= アプリケーション > インフラの順で好きです。
+- 「良いソフトウェア」を書く能力を磨く
+- 大規模システムに深く携わる
 
 ### design
-- 「一息でかけるレベル」をもう少しマシにする
+「一息でかけるレベル」をもう少しマシにする
 
 ### other
-- ボードゲームでつよくなる
-
-
-
-## Product / Portfolio
-TBD wantedlyからうつす
-
+ボードゲームでつよくなる
 
 
 ## Work Experience
 
-### 2017/06 - current AnyPay株式会社
-- Software Engineer
-    - 主にRuby, JavaScript(TypeScript), Go, AWS, GCP, Heroku
-- 主にサーバーサイドを対象として仕事しています。
-- 2018年から採用広報を一部担当したり、チーム運営の雑用部分をやったりもしています。
+### 2017/06 - AnyPay株式会社
+- ソフトウェアデベロッパーとして従事しています
+    - https://www.wantedly.com/companies/anypay/post_articles/65924
+    - 主にRuby, golang, JavaScript(TypeScript), AWS, GCP
+    - 少人数のチームにおいて、Frontend / Backend / DevOps / Infrastructure まで幅広く担当しています
+- 2018年から採用広報 / マネジメントを行っています
 
 ### 2015/04 - 2017/05 株式会社ハウテレビジョン
-- Software Engineer
-    - 主にRuby, JavaScript(ES6), AWS, Heroku
-- 新規事業の企画・調査から、開発・運用までを行い、2つの新規サービスをリリース。
-    1. データベース系メディア
+- ソフトウェアデベロッパーとして従事しました
+    - 主にRuby, JavaScript(ES6), AWS
+- 新規事業の企画・調査から、開発・運用までを行い、2つの新規サービスをリリースしました
+    1. スタートアップに特化したデータベース系メディア(非公開)
     2. スカウトシステムを有するキャリアサポートメディア
-- エンジニア採用、社内制度設計も担当していました。
+- エンジニア採用、社内制度設計も担当しました
     
 ### 2010/06 - 2015/03 [学生]株式会社フィオレコネクション
-- 遠隔教育サービスの提供を行なうベンチャーに起業時から携わりました。
-- 商品のプログラム内容検討や、講師の採用・研修など主に商品設計を担当。だいたい全部やってました。
+- 遠隔教育サービスの提供を行なうベンチャーに起業時から携わりました
+- 商品のプログラム内容検討や、講師の採用・研修など主に商品設計を担当しました
 
 
 ## Education
