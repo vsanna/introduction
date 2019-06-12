@@ -54,6 +54,45 @@ DevOpsは基本(モニタリング/リリース/インシデント対応/自動�
 - C++
 
 
+### 好きな本
+[Web Scalability for Startup Engineers](https://amzn.to/2WuG1Lb)
+
+[The Art of Scalability](https://amzn.to/2XIhDHs)
+
+[Scalability Rules: Principles for Scaling Web Sites](https://amzn.to/2WwyZFF)
+
+[Building Microservices: Designing Fine-Grained Systems](https://amzn.to/2WA9Z05)
+
+[ウェブオペレーション ―サイト運用管理の実践テクニック (THEORY/IN/PRACTICE)](https://amzn.to/2KbEo34)
+
+[SRE サイトリライアビリティエンジニアリング](https://amzn.to/2Ia1Mfj)
+
+[A Philosophy of Software Design](https://amzn.to/2Kc3ChU)
+
+[Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/2Wz2V46)
+
+[オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方](https://amzn.to/2WAxtCF)
+
+<!-- [初めてのプログラミング](https://amzn.to/2KaJKvH) -->
+
+<!-- [Ruby on Rails 4 アプリケーションプログラミング](https://amzn.to/2XFuU3o) -->
+
+<!-- [独習Java 新版](https://amzn.to/2I9igEi) -->
+
+[Webフロントエンド ハイパフォーマンス チューニング](https://amzn.to/2XDR7ik)
+
+<!-- [イシューからはじめよ――知的生産の「シンプルな本質」](https://amzn.to/2Ws68lS) -->
+
+<!-- [論点思考](https://amzn.to/2Kav3sv) -->
+
+[はじめて考えるときのように　「わかる」ための哲学的道案内](https://amzn.to/31qtU5x)
+
+[アイデアのつくり方](https://amzn.to/31tDjZQ)
+
+<!-- [プロフェッショナル原論](https://amzn.to/2WAxEhj) -->
+
+[ほぼ日の就職論「はたらきたい。」 ](https://amzn.to/2Wz4kro)
+
 ## Portfolio
 TBD: 説明を追加するかもしれない
 
