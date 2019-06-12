@@ -3,7 +3,8 @@
 
 ## ABOUT ME
 web関連を中心としたソフトウェア開発者として都内で働いています。  
-プロダクトの意思決定に近いところで技術的な課題を解決することを好んで仕事をしていますし、これからもそうするつもりでいます。
+プロダクトの意思決定に近いところで技術的な課題を解決することを好んで仕事をしていますし、  
+これからもそうするつもりでいます。
 
 
 ### SNS
@@ -18,15 +19,18 @@ web関連を中心としたソフトウェア開発者として都内で働い�
 - Developable / Scalable / Good Performance / Secure
 
 ### Skills
-Backendに軸足を置きつつクライアントも書きます。  
+Backendに軸足を置きつつWebClient/BEFも書きます。  
 DevOpsは基本(モニタリング/リリース/インシデント対応/自動化)を一通り行います。  
 インフラは専任の方にはおよびませんがシステムアーキテクチャの議論をすることは好きです。
+
+ソフトウェアデザインの話題も好きで、変数一つから、システム全体までうまく考えられているものをみると感動を覚えます。  
+自身もそういったコードを生み出せるよう日々学んでいます。
 
 
 - Client(Web):
     - HTML5 / Haml
     - CSS / SCSS
-    - JavaScript(TypeScript) / Vue.js / mocha / chai / karma / sinon
+    - JavaScript(TypeScript) / Vue.js / mocha / chai / karma / sinon (/ React / Redux)
     - PWA
 - Backend for Frontend:
     - Ruby / Ruby on Rails / RSpec
@@ -36,7 +40,7 @@ DevOpsは基本(モニタリング/リリース/インシデント対応/自動�
     - Java / Spring(Boot) / JUnit / Mochito
 - Infrastracture:
     - GCP
-        - GKE, GAE, CloudDatastore/Firestore, CloudSQL, BigQuery, GCS, PubSub, StackDriver, GCR, CloudBuild, などなど
+        - GCE, GAE, GKE, GCF, CloudEndpoint, Datastore/Firestore, CloudSQL, BigQuery, PubSub, Dataflow, StackDriver, GCR, CloudBuild ...
         - Professional Cloud Architect取得(2018/12)
     - AWS
         - EKS, Fargate, OpsWorks, RDS, ElastiCache, S3, Route53, CloudFront, などなど
