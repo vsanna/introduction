@@ -98,12 +98,14 @@ TBD: 説明を追加するかもしれない
 
 - as work:
     1. paymo / paymo biz
-    2. liiga
-    3. 外資就活ドットコム
+    2. Liiga
+    3. (非公開プロダクト)
+    4. 外資就活ドットコム
 - private:
     1. Issus: https://issus.me
     2. 平成アーカイブス: http://heisei-archives.com
     3. 自作アナリティクスツール
+    4. (閉鎖済み)個人ブログ
 
 
 ## What I want to do/be
