@@ -1,5 +1,4 @@
-![thank you](https://i.imgur.com/UKRrZMi.gif)
-
+<img src='https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif' width='100%'>
 
 ## ABOUT ME
 web関連を中心としたソフトウェア開発者として都内で働いています。  
