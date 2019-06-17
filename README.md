@@ -26,6 +26,7 @@ DevOpsは基本(モニタリング/リリース/インシデント対応/自動�
 ソフトウェアデザインの話題も好きで、変数一つから、システム全体までうまく考えられているものをみると感動を覚えます。  
 自身もそういったコードを生み出せるよう日々学んでいます。
 
+ここに書くのはいずれもプロダクションで主な技術として利用したものです。(技術検証のみの利用を含みません)
 
 - Client(Web):
     - HTML5 / Haml
@@ -52,18 +53,20 @@ DevOpsは基本(モニタリング/リリース/インシデント対応/自動�
         - Chef
     - CDN
         - CloudFlare, CloudCDN(GCP), CloudFront(AWS)
-    - proxy server
+    - LoadBalancer
+        - ElasticLoadBalancer(AWS), Loadbalancing(GCP), GKE Ingress
+    - WebServer / ProxyServer
         - Nginx
-    - Message Queue
+    - MessageQueue
         - Kafka, PubSub(GCP), AmazonSQS
     - RDB
-        - MySQL, PostgreSQL
+        - MySQL
     - NoSQL
         - MongoDB
         - Redis
         - ElasticSearch, Groonga
     - BigData
-        - Dataflow, BigQuery, Dataprep
+        - Dataflow, BigQuery
     - CD/CI
         - CircleCI
         - Cloud Build(GCP)
