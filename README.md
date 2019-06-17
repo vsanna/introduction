@@ -37,7 +37,7 @@ DevOpsは基本(モニタリング/リリース/インシデント対応/自動�
 - Backend:
     - Ruby / Rails / RSpec
     - golang / echo, gorilla / ginkgo / gomega
-    - Java / Spring(Boot) / JUnit / Mochito
+    - Java / Maven, Gradle / Spring(Boot) / JUnit / Mochito
 - Infrastracture:
     - GCP
         - GCE, GAE, GKE, GCF, CloudEndpoint, Datastore/Firestore, CloudSQL, BigQuery, PubSub, Dataflow, StackDriver, GCR, CloudBuild ...
@@ -46,11 +46,30 @@ DevOpsは基本(モニタリング/リリース/インシデント対応/自動�
         - EKS, Fargate, OpsWorks, RDS, ElastiCache, S3, Route53, CloudFront, などなど
     - Heroku
 - Others
-    - Docker, docker-compose
-    - Kubernetes
-    - MySQL, PostgreSQL
-    - CircleCI
-    - その他監視ツールやメトリクス収集ツールなど
+    - 開発環境
+        - Docker, docker-compose
+        - Kubernetes
+        - Chef
+    - CDN
+        - CloudFlare, CloudCDN(GCP), CloudFront(AWS)
+    - proxy server
+        - Nginx
+    - Message Queue
+        - Kafka, PubSub(GCP), AmazonSQS
+    - RDB
+        - MySQL, PostgreSQL
+    - NoSQL
+        - MongoDB
+        - Redis
+        - ElasticSearch, Groonga
+    - BigData
+        - Dataflow, BigQuery, Dataprep
+    - CD/CI
+        - CircleCI
+        - Cloud Build(GCP)
+    - その他
+        - Datadog
+        - Flutend, Embulk
 
 ### 趣味で書いているもの
 - iOS / Swift
