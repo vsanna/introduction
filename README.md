@@ -99,6 +99,12 @@ DevOpsは基本(モニタリング/リリース/インシデント対応/自動�
 
 [オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方](https://amzn.to/2WAxtCF)
 
+[関数型リアクティブプログラミング](https://amzn.to/2Zggiel)
+
+[マイクロサービスパターン[実践的システムデザインのためのコード解説]](https://amzn.to/3dYdQxb)
+
+[データ指向アプリケーションデザイン](https://amzn.to/2z2e3kp)
+
 <!-- [初めてのプログラミング](https://amzn.to/2KaJKvH) -->
 
 <!-- [Ruby on Rails 4 アプリケーションプログラミング](https://amzn.to/2XFuU3o) -->
