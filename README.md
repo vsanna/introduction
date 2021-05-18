@@ -2,21 +2,19 @@
 <p><a href="https://giphy.com/gifs/hi-BpS6k9mXoDiZa">via GIPHY</a></p>
 
 ## ABOUT ME
-web関連を中心としたソフトウェア開発者として都内で働いています。  
-プロダクトの意思決定に近いところで技術的な課題を解決することを好んで仕事をしていますし、  
-これからもそうするつもりでいます。
-
+I've been working as a software developer for more than 6 years(since 2015/04).
+I perfer working with/as decision makers of products closely.
 
 ### SNS
 - Twitter: [@vsanna2](https://twitter.com/vsanna2)
-- Issus: [@vsanna](https://issus.me/vsanna)
 - Qiita: [@vsanna](https://qiita.com/vsanna)
 
-### 大切にしている考え方
-- HRT
-- 構造化
-- 中長期のトレンドで必要とされるものを作る
-- Developable / Scalable / Good Performance / Secure
+### Thoughts I like
+- Humility / Respect / Trust
+- Organize codes/documents
+- Over communication
+- Build things needed for long
+- Maintainable / Scalable / Fast / Secure
 
 ### Skills
 Backendに軸足を置きつつWebClient/BEFも書きます。  
