@@ -2,85 +2,77 @@
 <p><a href="https://giphy.com/gifs/hi-BpS6k9mXoDiZa">via GIPHY</a></p>
 
 ## ABOUT ME
-web関連を中心としたソフトウェア開発者として都内で働いています。  
-プロダクトの意思決定に近いところで技術的な課題を解決することを好んで仕事をしていますし、  
-これからもそうするつもりでいます。
+I'm working as a software developer mainly in web service industry in Tokyo.
+I prefer working close to where decisions of products are made, and addressing technical challenges.
 
 
 ### SNS
-- Twitter: [@vsanna2](https://twitter.com/vsanna2)
-- Issus: [@vsanna](https://issus.me/vsanna)
-- Qiita: [@vsanna](https://qiita.com/vsanna)
+- LinkedIn: []()
 
-### 大切にしている考え方
-- HRT
-- 構造化
-- 中長期のトレンドで必要とされるものを作る
-- Developable / Scalable / Good Performance / Secure
 
-### Skills
-Backendに軸足を置きつつWebClient/BEFも書きます。  
-DevOpsは基本(モニタリング/リリース/インシデント対応/自動化)を一通り行います。  
-インフラは専任の方にはおよびませんがシステムアーキテクチャの議論をすることは好きです。
+### SKILLS/EXPERIENCES
+I've been writing codes mainly for backend services and infrastructure layer, and also do DevOps operations.
+Regarding DevOps, I do monitoring, deployment management, incident handling, automation, etc as needed.
 
-ソフトウェアデザインの話題も好きで、変数一つから、システム全体までうまく考えられているものをみると感動を覚えます。  
-自身もそういったコードを生み出せるよう日々学んでいます。
 
-ここに書くのはいずれもプロダクションで主な技術として利用したものです。(技術検証のみの利用を含みません)
+These are techstacks I've been / was using in production environment
+(not including ones I've just tried as PoC)
 
-- Client(Web):
-    - HTML5 / Haml
-    - CSS / SCSS
-    - JavaScript(TypeScript) / Vue.js / mocha / chai / karma / sinon (/ React / Redux)
-    - PWA
-- Backend for Frontend:
-    - Ruby / Ruby on Rails / RSpec
+In short, I've been using Kotlin + Spring Webflux + Kubernetes + some DevOps tools recently.
+
 - Backend:
-    - Ruby / Rails / RSpec
-    - golang / echo, gorilla / ginkgo / gomega
-    - Java / Maven, Gradle / Spring(Boot) / JUnit / Mochito
+    - currently:
+	    - Kotlin, Java
+	    - Gradle, Maven 
+	    - Spring, Spring Boot, Spring MVC, Spring WebFlux
+        - Spek, Mockk, Mochito, JUnit5
+    - before:
+	    - Ruby / Rails / RSpec
+        - golang / echo, gorilla / ginkgo / gomega
 - Infrastracture:
-    - GCP
-        - GCE, GAE, GKE, GCF, CloudEndpoint, Datastore/Firestore, CloudSQL, BigQuery, PubSub, Dataflow, StackDriver, GCR, CloudBuild ...
-        - Professional Cloud Architect取得(2018/12)
-    - AWS
-        - EKS, Fargate, OpsWorks, RDS, ElastiCache, S3, Route53, CloudFront, などなど
-    - Heroku
+    - currently: 
+    	- AWS
+    	- Kubernetes, Istio, Knative
+            - ※ certified as CKA(2022/01)
+            - ※ certified as CKAD(2022/01)
+	    - Docker, containerd
+	    - Terraform, Ansible 
+    - before: 
+	    - GCP, Heroku 
+            - ※ certified as Professional Cloud Architect(2018/12)
 - Others
-    - 開発環境
-        - Docker, docker-compose
-        - Kubernetes
-        - Chef
-    - CDN
-        - CloudFlare, CloudCDN(GCP), CloudFront(AWS)
-    - LoadBalancer
-        - ElasticLoadBalancer(AWS), Loadbalancing(GCP), GKE Ingress
     - WebServer / ProxyServer
         - Nginx
     - MessageQueue
         - Kafka, PubSub(GCP), AmazonSQS
     - RDB
-        - MySQL
+        - MySQL, RDS(Aurora)
     - NoSQL
-        - MongoDB
+        - DynamoDB 
         - Redis
         - ElasticSearch, Groonga
     - BigData
+	    - flink
         - Dataflow, BigQuery
-    - CD/CI
+    - CI/CD
         - CircleCI
         - Cloud Build(GCP)
-    - その他
-        - Datadog
-        - Flutend, Embulk
+	    - ArgoCD
+    - OS
+        - Linux
+            - ※ certified as LPIC 305/304/202/201/102/101(2021)
+    - Testing tools
+        - Gatling, Locust
+    - Scripting
+        - ShellScript, Python
+    - Web Frontend:
+        - HTML5 / Haml
+        - CSS / SCSS
+        - JavaScript(TypeScript) / Vue.js / mocha / chai / karma / sinon (/ React / Redux)
 
-### 趣味で書いているもの
-- iOS / Swift
-- Flutter / Dart
-- C++
 
 
-### 好きな本
+### Favorite books
 [Web Scalability for Startup Engineers](https://amzn.to/2WuG1Lb)
 
 [The Art of Scalability](https://amzn.to/2XIhDHs)
@@ -105,12 +97,6 @@ DevOpsは基本(モニタリング/リリース/インシデント対応/自動�
 
 [データ指向アプリケーションデザイン](https://amzn.to/2z2e3kp)
 
-<!-- [初めてのプログラミング](https://amzn.to/2KaJKvH) -->
-
-<!-- [Ruby on Rails 4 アプリケーションプログラミング](https://amzn.to/2XFuU3o) -->
-
-<!-- [独習Java 新版](https://amzn.to/2I9igEi) -->
-
 [Webフロントエンド ハイパフォーマンス チューニング](https://amzn.to/2XDR7ik)
 
 <!-- [イシューからはじめよ――知的生産の「シンプルな本質」](https://amzn.to/2Ws68lS) -->
@@ -125,62 +111,35 @@ DevOpsは基本(モニタリング/リリース/インシデント対応/自動�
 
 [ほぼ日の就職論「はたらきたい。」 ](https://amzn.to/2Wz4kro)
 
-## Portfolio
-TBD: 説明を追加するかもしれない
+## Careers
 
-- as work:
-    1. paymo / paymo biz
-    2. Liiga
-    3. (非公開プロダクト)
-    4. 外資就活ドットコム
-- private:
-    1. Issus: https://issus.me
-    2. 平成アーカイブス: http://heisei-archives.com
-    3. 自作アナリティクスツール
-    4. (閉鎖済み)個人ブログ
-
-
-## What I want to do/be
-
-### work
-- 中長期に世に求められるプロダクトに従事する
-- チーム組成・運営
-- プロダクトオーナーとして結果に責任を持つ/持てる力量を持つ
-
-### programming
-- 広く/深く 貪欲に技術力を追い求める
-- 大規模システムに深く携わる
-
-### design
-「一息でかけるレベル」をもう少しマシにする
-
-### other
-ボードゲームでつよくなる
-
-
-## Work Experience
-
-### 2017/06 - AnyPay株式会社
-- ソフトウェアデベロッパーとして従事しています
-    - https://www.wantedly.com/companies/anypay/post_articles/65924
-    - 主にRuby, golang, JavaScript(TypeScript), AWS, GCP
-    - 少人数のチームにおいて、Frontend / Backend / DevOps / Infrastructure まで幅広く担当しています
-- 2018年から採用広報 / マネジメントを行っています
-
-### 2015/04 - 2017/05 株式会社ハウテレビジョン
-- ソフトウェアデベロッパーとして従事しました
-    - 主にRuby, JavaScript(ES6), AWS
-- 新規事業の企画・調査から、開発・運用までを行い、2つの新規サービスをリリースしました
-    1. スタートアップに特化したデータベース系メディア(非公開)
-    2. スカウトシステムを有するキャリアサポートメディア
-- エンジニア採用、社内制度設計も担当しました
-    
-### 2010/06 - 2015/03 [学生]株式会社フィオレコネクション
-- 遠隔教育サービスの提供を行なうベンチャーに起業時から携わりました
-- 商品のプログラム内容検討や、講師の採用・研修など主に商品設計を担当しました
+1. 2020/09 - current: **SmartNews, inc.**
+    - An unicorn comompaany of newws aggregation c app, that rhas raised over xxxxxx so far.  
+    - projects
+        - working mainly for building new user-facing eatures
+        - restrucuring account system
+    - role: techlead or general engineer
+2. 2019/06 - 2020/09: **PayPay, inc.**
+    - A fintech company of the payment app used the most in Japan that has over 35M users.
+    - projects
+        - worked for migrationg large amount of users(+20M) into other service
+        - built eKYC feature
+        - worked in projects that aimed for improving developers' productivity
+    - role: sub-techlead or general engineer
+3. 2017/05 - 2019/06: **AnyPay, inc.**
+    - A fintech company that provided E-Commerce service and bill-splitting app.
+    - projects
+        - TODO
+    - role: general engineer
+4. 2015/04 - 2017/05: **Howtelevision, inc.**
+    - A company providing job info service
+    - projects
+        - TODO
+    - role: general engineer
 
 
 ## Education
-- 2009.3 開成高等学校 卒業
-- 2010.4 東京大学 入学
-- 2014.9 東京大学 経済学部経済学科 卒業
+- Bachelor of Economics, The University of Tokyo(2014/09)
+- Graduate from Kaisei High School(2009/03)
+
+
