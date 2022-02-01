@@ -7,7 +7,7 @@ I prefer working close to where decisions of products are made, and addressing t
 
 
 ### SNS
-- LinkedIn: []()
+- LinkedIn: [my profile](https://www.linkedin.com/in/ryu-i-8217a773)
 
 
 ### SKILLS/EXPERIENCES
